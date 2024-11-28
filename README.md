@@ -65,6 +65,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfmoura&layout=compact&langs_count=16&theme=github_dark"/>
 
 </div>
+
 <div align="center" id="stats">
  
 ### at Redraw 
@@ -72,8 +73,8 @@
   <a href="https://github.com/plfmoura-redraw"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plfmoura-redraw&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfmoura-redraw&layout=compact&langs_count=16&theme=github_dark"/>
-  
-  </div>
+    
+ </div>
   
 <div align="center" id="badges">
   
