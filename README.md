@@ -8,7 +8,7 @@
 #### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 BELOW HOLOPIN BADGES. 👍
 
 ### My business profile at Redraw: <a href="https://github.com/plfmoura-redraw">@plfmoura-redraw</a> 🐙
-### My business profile at Baymetrics: <a href="https://github.com/plfmoura-bay">@plfmoura-bay</a> 🐙
+### Personal profile: <a href="https://github.com/plfmoura">@plfmoura</a> 🐙
 
 
 #### Do you know my work and would you like to leave me a recommendation on Linkedin?  <a href="https://www.linkedin.com/in/pedro-lucas-moura/edit/forms/recommendation/write/?profileFormEntryPoint=PROFILE_SECTION&profileUrn=urn%3Ali%3Afsd_profile%3AACoAAC6sCaoBSiDFmEpODA4WlnuLhdWJbB5QOck&trackingId=PB3NS0iRSRGJgiMBHOqs6A%3D%3D" target="blank">Pedro Linkedin Profile</a> 🚀😎
@@ -61,10 +61,20 @@
 ### My User Stats on GitHub. 🟢
   
   <a href="https://github.com/plfmoura"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plfmoura&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plfmoura&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfmoura&layout=compact&langs_count=16&theme=github_dark"/>
-  
+
 </div>
+<div align="center" id="stats">
+ 
+### at Redraw 
+ 
+  <a href="https://github.com/plfmoura-redraw"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plfmoura-redraw&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfmoura-redraw&layout=compact&langs_count=16&theme=github_dark"/>
+  
+  </div>
+  
 <div align="center" id="badges">
   
 ### My Holopin Badges. 🟢
